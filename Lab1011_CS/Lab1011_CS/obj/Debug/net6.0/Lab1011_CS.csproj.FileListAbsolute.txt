@@ -1,0 +1,15 @@
+C:\Users\clark\source\repos\Lab1011_CS\Lab1011_CS\obj\Debug\net6.0\Lab1011_CS.csproj.AssemblyReference.cache
+C:\Users\clark\source\repos\Lab1011_CS\Lab1011_CS\obj\Debug\net6.0\Lab1011_CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clark\source\repos\Lab1011_CS\Lab1011_CS\obj\Debug\net6.0\Lab1011_CS.AssemblyInfoInputs.cache
+C:\Users\clark\source\repos\Lab1011_CS\Lab1011_CS\obj\Debug\net6.0\Lab1011_CS.AssemblyInfo.cs
+C:\Users\clark\source\repos\Lab1011_CS\Lab1011_CS\obj\Debug\net6.0\Lab1011_CS.csproj.CoreCompileInputs.cache
+C:\Users\clark\source\repos\Lab1011_CS\Lab1011_CS\bin\Debug\net6.0\Lab1011_CS.exe
+C:\Users\clark\source\repos\Lab1011_CS\Lab1011_CS\bin\Debug\net6.0\Lab1011_CS.deps.json
+C:\Users\clark\source\repos\Lab1011_CS\Lab1011_CS\bin\Debug\net6.0\Lab1011_CS.runtimeconfig.json
+C:\Users\clark\source\repos\Lab1011_CS\Lab1011_CS\bin\Debug\net6.0\Lab1011_CS.dll
+C:\Users\clark\source\repos\Lab1011_CS\Lab1011_CS\bin\Debug\net6.0\ref\Lab1011_CS.dll
+C:\Users\clark\source\repos\Lab1011_CS\Lab1011_CS\bin\Debug\net6.0\Lab1011_CS.pdb
+C:\Users\clark\source\repos\Lab1011_CS\Lab1011_CS\obj\Debug\net6.0\Lab1011_CS.dll
+C:\Users\clark\source\repos\Lab1011_CS\Lab1011_CS\obj\Debug\net6.0\ref\Lab1011_CS.dll
+C:\Users\clark\source\repos\Lab1011_CS\Lab1011_CS\obj\Debug\net6.0\Lab1011_CS.pdb
+C:\Users\clark\source\repos\Lab1011_CS\Lab1011_CS\obj\Debug\net6.0\Lab1011_CS.genruntimeconfig.cache
